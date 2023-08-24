@@ -1,0 +1,11 @@
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+porque algunos lenguajes necesitan un compilador o necesitan ser compilados y si no los tienen el compilador o el interprete  no se pueden ejecutar
+Que tipo de maquina virtual soporta virtualBox?
+tipo 2 alojadas
+Que funcion cumple el hypervisor en la virtualizacion?
+crea y gestiona los recursos de las masquinas virtuales
+Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+no las afecta, cada maquina virtual esta aislada y cada una tiene sus propios recursos asignados
+
+
+
